@@ -1,0 +1,8 @@
+Wed Jul 19 2023 23:39:10 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: contactNo_1 dup key: { contactNo: "09877766677" }
+Wed Jul 19 2023 23:40:46 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 23:40:57 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: contactNo_1 dup key: { contactNo: "09877766671" }
+Wed Jul 19 2023 23:41:3 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: contactNo_1 dup key: { contactNo: "09877766671" }
+Wed Jul 19 2023 23:59:4 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: contactNo_1 dup key: { contactNo: "09877766671" }
+Wed Jul 19 2023 23:59:19 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)

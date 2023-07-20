@@ -1,0 +1,25 @@
+Tue Jul 18 2023 22:11:13 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.academicdepartments index: title_1 dup key: { title: "Faculty of Management" }
+Tue Jul 18 2023 22:20:56 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "number",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected string, received number"
+  }
+]
+Tue Jul 18 2023 22:21:9 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "number",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected string, received number"
+  }
+]
