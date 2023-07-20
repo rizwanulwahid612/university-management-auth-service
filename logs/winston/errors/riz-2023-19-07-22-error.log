@@ -1,0 +1,10 @@
+Wed Jul 19 2023 22:8:5 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 22:8:10 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 22:14:39 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 22:15:50 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 22:31:18 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)

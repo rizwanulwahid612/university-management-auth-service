@@ -1,0 +1,29 @@
+Wed Jul 19 2023 18:21:46 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "name",
+      "lastName"
+    ],
+    "message": "Last Name is required"
+  }
+]
+Wed Jul 19 2023 18:34:0 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 18:34:19 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: email_1 dup key: { email: "user@gmail.com" }
+Wed Jul 19 2023 18:34:21 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: email_1 dup key: { email: "user@gmail.com" }
+Wed Jul 19 2023 18:35:9 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 18:35:14 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: email_1 dup key: { email: "user@gmail.com" }
+Wed Jul 19 2023 18:35:16 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: email_1 dup key: { email: "user@gmail.com" }
+Wed Jul 19 2023 18:35:17 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: email_1 dup key: { email: "user@gmail.com" }
+Wed Jul 19 2023 18:35:46 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: contactNo_1 dup key: { contactNo: "098766677" }
+Wed Jul 19 2023 18:36:10 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 18:43:29 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 18:46:53 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: university-management.students index: email_1 dup key: { email: "use44r@gmail.com" }

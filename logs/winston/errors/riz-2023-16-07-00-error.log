@@ -1,0 +1,12 @@
+Sun Jul 16 2023 0:4:29 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]

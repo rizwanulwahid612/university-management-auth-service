@@ -1,0 +1,2 @@
+Mon Jul 17 2023 23:6:22 [Rizvi UM] error: globalErrorHandelar ~ Cast to ObjectId failed for value "64b3ab92af9efae64010fc9" (type string) at path "_id" for model "AcademicSemister"
+Mon Jul 17 2023 23:19:20 [Rizvi UM] error: globalErrorHandelar ~ Academic semister is already exist !

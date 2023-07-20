@@ -1,0 +1,13 @@
+Tue Jul 18 2023 17:6:6 [Rizvi UM] error: listen EADDRINUSE: address already in use :::5000
+Tue Jul 18 2023 17:34:18 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "academicFaculty"
+    ],
+    "message": "Academic department is required"
+  }
+]

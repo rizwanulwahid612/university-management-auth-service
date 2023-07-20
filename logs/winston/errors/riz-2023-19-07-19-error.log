@@ -1,0 +1,32 @@
+Wed Jul 19 2023 19:14:9 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 19:27:33 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 19:28:23 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 19:28:32 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 19:28:36 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 19:28:38 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 19:28:39 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 19:52:7 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)
+Wed Jul 19 2023 19:52:39 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "name",
+      "firstName"
+    ],
+    "message": "First Name is required"
+  }
+]
+Wed Jul 19 2023 19:53:0 [Rizvi UM] error: globalErrorHandelar ~ Schema hasn't been registered for model "AcademicSemester".
+Use mongoose.model(name, schema)

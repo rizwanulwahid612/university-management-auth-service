@@ -1,0 +1,264 @@
+Sat Jul 15 2023 22:16:4 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:18:29 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:18:30 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:21:10 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:21:16 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:21:34 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:38:49 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:38:55 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:38:56 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:40:44 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:18 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:19 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:20 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:20 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:29 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:30 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:31 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:33 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:34 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:34 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:35 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sat Jul 15 2023 22:41:36 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
