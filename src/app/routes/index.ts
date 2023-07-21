@@ -35,3 +35,5 @@ moduleRoutes.forEach(route => router.use(route.path, route.route));
 // router.use('/academic-semesters/', AcademicSemesterRouths);
 
 export default router;
+//http://localhost:5000/api/v1/academic-semesters/?sortBy=code&year&sortOrder=asc
+//http://localhost:5000/api/v1/academic-semesters/?searcTerm=Autumn&page=1&limit=3

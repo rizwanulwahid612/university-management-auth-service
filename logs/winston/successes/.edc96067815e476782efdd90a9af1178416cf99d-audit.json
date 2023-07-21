@@ -284,6 +284,11 @@
             "date": 1689869769930,
             "name": "G:\\university-management-auth-service\\logs\\winston\\successes\\riz-2023-20-07-22-success.log",
             "hash": "18f4c4952e5ca88c80638963271fc60a91469bc1707b2850a988a3bd0f9f5fe2"
+        },
+        {
+            "date": 1689875498544,
+            "name": "G:\\university-management-auth-service\\logs\\winston\\successes\\riz-2023-20-07-23-success.log",
+            "hash": "210b6c7a9be4c6129b1daeb6e500e61a50fbbe2b2155376c46ecfbdca534bbf7"
         }
     ],
     "hashType": "sha256"
